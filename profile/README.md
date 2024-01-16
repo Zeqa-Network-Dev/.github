@@ -12,3 +12,5 @@
 ### What is this?
 
 This organization hosts our in-dev projects, like KitPvP, and other miscellaneous projects.
+
+If you're confused, you're probably looking for [our regular organization](https://github.com/Zeqa-Network).
